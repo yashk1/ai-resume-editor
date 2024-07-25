@@ -1,0 +1,7 @@
+streamlit
+llama-index
+ipython
+transformers
+sentence_transformers
+PyPDF2
+   
